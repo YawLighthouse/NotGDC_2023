@@ -1,5 +1,5 @@
 # NotGDC_2023
-Nicholas Helish's notGDC 2023 talk
+Nicholas Helish's notGDC 2023 project.
 
 Made in Unreal Engine 5.1 with C++
 
