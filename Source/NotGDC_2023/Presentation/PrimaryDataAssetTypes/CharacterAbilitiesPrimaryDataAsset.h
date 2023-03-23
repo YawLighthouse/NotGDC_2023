@@ -28,6 +28,9 @@ public:
 	UFUNCTION(BlueprintPure, Category = "Abilities")
 	UAbilityConfiguration* GetFirstAbilityConfig() const;
 
+	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "UI")
+	FText DisplayName = FText::FromString("DEFAULT ABILITY NAME");
+	
 	UPROPERTY(EditAnywhere, BlueprintReadOnly, Category = "UI",
 		meta = (DisplayThumbnail="true", AssetBundles = "UI",
 			AllowedClasses="/Script/Engine.Texture,/Script/Engine.MaterialInterface,/Script/Engine.SlateTextureAtlasInterface",

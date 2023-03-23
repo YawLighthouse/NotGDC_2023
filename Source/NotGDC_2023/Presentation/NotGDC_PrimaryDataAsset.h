@@ -19,7 +19,9 @@ public:
 
 #if WITH_EDITORONLY_DATA
 
+	// UPrimaryDataAsset interface
 	virtual void UpdateAssetBundleData() override;
+	// ~UPrimaryDataAsset interface
 
 	virtual void UpdateBundleDataWithInstancedObjectsMetaData(FAssetBundleData& BundleData) { }
 
