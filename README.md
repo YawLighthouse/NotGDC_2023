@@ -1,7 +1,8 @@
 # NotGDC 2023 - Gameplay Engineer Designing for Live Service Games in Unreal Engine 
 Nicholas Helish's notGDC 2023 example project.
-[YouTube Recording of the presentation](https://youtu.be/ClI91hUMizA)
-[Google Slides Presentation](https://docs.google.com/presentation/d/13-eO9oqIpwOhNFaqDzAdm9_ek6-_ohlsU7zKaJc75JM/edit?usp=sharing)
+
+- [YouTube Recording of the presentation](https://youtu.be/ClI91hUMizA)
+- [Google Slides Presentation](https://docs.google.com/presentation/d/13-eO9oqIpwOhNFaqDzAdm9_ek6-_ohlsU7zKaJc75JM/edit?usp=sharing)
 
 Made in Unreal Engine 5.1 with C++
 
